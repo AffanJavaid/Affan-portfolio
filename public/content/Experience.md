@@ -1,29 +1,13 @@
-## Company 1
-- *Role* | Jan'23 - Feb'23
+## CureMD
+- *DevOps Engineer* | August 2021 - Currently
 - ![logo512](../assets/logo512.png)
-- Tags: Category 1
+- Tags: DevOps
 - Badges:
-  - Badge [blue]
+  - Team DevOps [blue]
 - List Items:
-  - Point 1
-  - Point 2
-
-## Company 2
-- *Role* | Feb'23 - Mar'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 2
-- Badges:
-  - Badge [blue]
-- List Items:
-  - Point 1
-  - Point 2
-
-## Company 3
-- *Role* | Mar'23 - Apr'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 3
-- Badges:
-  - Badge [blue]
-- List Items:
-  - Point 1
-  - Point 2
+  - Creating the Release Roll out Plan
+  - Application infrastructure maintenance on AWS
+  - Security implementation on AWS using CIS Benchmark
+  - Deployment of containerized applications on AWS using Azure Pipelines
+  - Infrastructure as Code using Terraform
+  - Disaster Recovery

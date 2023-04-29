@@ -1,23 +1,19 @@
-## Project 1
-Description
-- Tags: Category 1
+## CI/CD 
+CI/CD using azure pipelines, it will build the docker image push it to ECR and deploy it to EC2 instances using SSH connection
+- Tags: Final Year Project 
 - Badges:
-  - Badge [blue]
-- Buttons:
-  - Link [https://example.com]
+  - CI/CD [blue]
 
-## Project 2
-Description
+
+## AWS EKS 
+Creating and maintaining the EKS Cluster on AWS and automation of deployment of application on EKS Cluster using Azure DevOps Pipelines
 - Tags: Category 2
 - Badges:
-  - Badge [blue]
-- Buttons:
-  - Link [https://example.com]
+  - EKS [purple]
 
-## Project 3
-Description
+
+## IaC
+To ensure that the AWS infrastructure is consistent and reproducible, I write a terraform file to create and destroy staging enviorment. 
 - Tags: Category 3
 - Badges:
-  - Badge [blue]
-- Buttons:
-  - Link [https://example.com]
+  - Terraform [red]
